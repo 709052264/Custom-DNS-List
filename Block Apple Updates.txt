@@ -10,3 +10,4 @@
 ||mesu.g.aaplimg.com^
 ||gdmf.v.aaplimg.com^
 ||gdmf-ados.apple.com^
+||updates.cdn-apple.com^
