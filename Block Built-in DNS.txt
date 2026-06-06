@@ -4,8 +4,8 @@
 @@||mask.apple-dns.net^
 @@||mask-api.fe.apple-dns.net^
 @@||duckdns.org^
-@@*push-apple*.com^
-@@*apple-dns*
+@@*push-apple*^
+@@*apple-dns*^
 ||dns.apple.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||tdnsv*.com^
