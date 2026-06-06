@@ -2,6 +2,7 @@
 ||*dns*.cn^
 ||*dns*.net^
 @@||mask.apple-dns.net^
+@@||mask-api.fe.apple-dns.net^
 ||dns.apple.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||tdnsv*.com^
