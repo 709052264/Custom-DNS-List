@@ -1,8 +1,6 @@
 ||*dns*.com^
 ||*dns*.cn^
 ||*dns*.net^
-@@||mask.apple-dns.net^
-@@||mask-api.fe.apple-dns.net^
 @@||duckdns.org^
 @@*push*apple*^
 @@*apple*dns*^
